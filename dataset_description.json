@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "This study is supported by National Key Research and Development Program of China (2021YFC2501500).",   
+    "Acknowledgements": "This study is supported by National Key Research and Development Program of China (2021YFC2501500).",
     "Name": "A Resting-state EEG Dataset for Sleep Deprivation",
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
@@ -17,6 +17,6 @@
         "Ke Lv",
         "Xu Lei"
     ],
-    "License": "CC0"
-    
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004902.v1.0.0"
 }
