@@ -2,10 +2,18 @@
   "Electrodes": {
     "Type": "EEG",
     "Units": "millimeters",
-    "CoordinatesDescription": "x, y, z refer to position relative to head center",
     "EEGPlacementScheme": "10-20",
+    "CoordinatesDescription": "x, y, z refer to position relative to head center",
+    "Columns": {
+      "name": "10-20 electrodes",
+      "x": "refer to position relative to head center",
+      "y": "refer to position relative to head center",
+      "z": "refer to position relative to head center",
+      "manufacturer": "Brain Products GmbH"
+    },
     "ChannelList": [
       {
+        "name": "",
         "x": "",
         "y": "",
         "z": "",
